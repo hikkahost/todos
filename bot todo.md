@@ -1,0 +1,26 @@
+- ~~error if api is down~~
+- ~~logs in admin chat~~
+- ~~channel stats~~
+- ~~admin commands~~
+- ~~admin panel~~
+- ~~rassilkablyat~~
+- ~~test bot for bugs!~~
+- ~~translate to other languages~~
+- ~~write to user pm about admin action with his host (give, reinstall, delete)~~
+- ~~write user about receiving ban~~
+- admin panel in inline (for @vsecoder)
+- ~~webhook~~
+- ~~switch webhook~~
+- ~~message user about expire host~~
+- ~~check server's places in admin command /give~~
+- ~~need to subscribe before use bot~~
+- ~~say about support chat in error~~
+- ~~/stats command for admins (with uptime)~~
+- ~~stats of the host (day, week, month, all)~~
+- ~~write log about new user~~
+- ~~exec terminal inline~~
+- ~~admin user host execute command~~
+- ~~say that host or server is off if user trying to execute command via inline~~
+- ~~info command of the hh bot, like git commit and other.~~
+- ~~teck work on/off~~
+- gift host
