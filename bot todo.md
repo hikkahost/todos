@@ -24,3 +24,4 @@
 - ~~info command of the hh bot, like git commit and other.~~
 - ~~teck work on/off~~
 - gift host
+- anypay pay
