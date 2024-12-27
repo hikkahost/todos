@@ -1,4 +1,4 @@
-- ~~error if api is down~~
+~~error if api is down~~
 - ~~logs in admin chat~~
 - ~~channel stats~~
 - ~~admin commands~~
@@ -25,3 +25,4 @@
 - ~~teck work on/off~~
 - gift host
 - anypay pay
+- finance control
