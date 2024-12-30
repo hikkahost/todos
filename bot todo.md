@@ -26,3 +26,4 @@
 - gift host
 - anypay pay
 - ~~finance control~~
+- subscribe create giveaways for all users
