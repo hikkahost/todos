@@ -24,6 +24,6 @@
 - ~~info command of the hh bot, like git commit and other.~~
 - ~~teck work on/off~~
 - gift host
-- anypay pay
+- ~~anypay pay~~ (closed)
 - ~~finance control~~
 - subscribe create giveaways for all users
