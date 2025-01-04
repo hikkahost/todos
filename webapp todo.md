@@ -1,2 +1,2 @@
-- fix hikka ui url
+- ~~fix hikka ui url~~
 - add purchase
