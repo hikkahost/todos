@@ -27,3 +27,5 @@
 - ~~anypay pay~~ (closed)
 - ~~finance control~~
 - subscribe create giveaways for all users
+- add a command to create and delete gift subscriptions (For example: /delgift {code}, /creategift {days})
+- add a command to view all existing non-activated gift links (For example: /gifts) (• {gift_code} {days} {creator_user_id})
