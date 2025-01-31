@@ -23,9 +23,10 @@
 - ~~say that host or server is off if user trying to execute command via inline~~
 - ~~info command of the hh bot, like git commit and other.~~
 - ~~teck work on/off~~
-- gift host
+- ~~gift host~~
 - ~~anypay pay~~ (closed)
 - ~~finance control~~
 - subscribe create giveaways for all users
+- check if user follows host rules (one session, hikka only weburl)
 - add a command to create and delete gift subscriptions (For example: /delgift {code}, /creategift {days})
 - add a command to view all existing non-activated gift links (For example: /gifts) (• {gift_code} {days} {creator_user_id})
