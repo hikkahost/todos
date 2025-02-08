@@ -28,6 +28,6 @@
 - ~~finance control~~
 - subscribe create giveaways for all users
 - ~~check if user follows host rules (one session, hikka only weburl)~~
-- add a command to create and delete gift subscriptions (For example: /delgift {code}, /creategift {days})
+- ~~add a command to create and delete gift subscriptions (For example: /delgift {code}, /creategift {days})~~
 - add a command to view all existing non-activated gift links (For example: /gifts) (• {gift_code} {days} {creator_user_id})
 - Remove the finance topic and create /fstats {-all/M1/Me/N1/N2/F1} {h/d/w/m/y or 01.01.2025 - 01.02.2025} (@vsecoder need to add it in API)
