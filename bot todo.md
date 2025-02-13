@@ -33,3 +33,5 @@
 - add a command to view all existing non-activated gift links (For example: /gifts) (• {gift_code} {days} {creator_user_id})
 - Remove the finance topic and create /fstats {-all/M1/Me/N1/N2/F1} {h/d/w/m/y or 01.01.2025 - 01.02.2025} (@vsecoder need to add it in API)
 - login in account via tg bot
+- log basic actions of users, on/off/restart, reinstall/delete
+- log basic actions of admin for users's hosts
