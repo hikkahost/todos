@@ -4,3 +4,4 @@
 - login in account via tg bot
 - log basic actions of users, on/off/restart, reinstall/delete
 - log basic actions of admin for users's hosts
+- add /log command for admins
