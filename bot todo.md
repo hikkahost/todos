@@ -7,7 +7,7 @@
 - add ability to control your host to other users
 - login via tg bot (because of security, i don't think that this feature will be released)
 - rewrite message about "hikkahostapi is under maintenance" to "yandex cloud servers are just restarting about"
-- finish mirrors
+- finish mirrors and fix changing them
 - add ability to change server (might only after accept by admins and valid reason)
 - add floodwait for changing passwords
 - ask activate now or save gift and activate them in gifts menu later in anytime (but maybe they will have expiry date)
