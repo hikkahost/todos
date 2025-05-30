@@ -1,7 +1,6 @@
 - admin panel in inline
 - subscribe create giveaways for all users
 - Remove the finance topic and create /fstats {-all/M1/Me/N1/N2/F1} {h/d/w/m/y or 01.01.2025 - 01.02.2025} (@vsecoder need to add it in API)
-- rename button "check" to "check payment"
 - detailed servers monitoring in stats channel (show internet, ram, cpu load and ping)
 - add ability to control your host to other users
 - login via tg bot (because of security, i don't think that this feature will be released)
